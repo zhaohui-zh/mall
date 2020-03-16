@@ -9,3 +9,6 @@ target/
 .settings/
 .classpath
 .project
+
+# Local files #
+application-local.yml
