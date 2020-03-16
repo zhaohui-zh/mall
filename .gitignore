@@ -12,3 +12,4 @@ target/
 
 # Local files #
 application-local.yml
+generatorLocal.properties
